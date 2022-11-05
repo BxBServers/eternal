@@ -23308,14 +23308,13 @@ hash = "0764bde575aca6b60f2e211552e354ec5c7db203e678aedc9b7c1b411690b9d8"
 metafile = true
 
 [[files]]
-file = "mods/immersive-intelligence.pw.toml"
-hash = "cdd27e31aeac3f4ac1eb3db631ea311d93db7e634ac5f17934fd0e22dec2ef55"
-metafile = true
-
-[[files]]
 file = "mods/immersive-petroleum.pw.toml"
 hash = "fdf9c1eb972fa8985f9cf585d8ebecbb1398ca42265b34874a925f0980837c88"
 metafile = true
+
+[[files]]
+file = "mods/immersiveintelligence-1.12.2-0.1.1-nospam.jar"
+hash = "494308dffd13b2de0074a49acd506fd603862429cc8fde53697f23c0ee3892af"
 
 [[files]]
 file = "mods/immersiveposts.pw.toml"
@@ -24022,7 +24021,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "30baf3b03af0c64606bd16fdbeda89666d8f4d925fbf4dc0bef21db36cc417f4"
+hash = "c8507bd5e569025bbebd8da1322b3bb964e9f4903be52e2c7c8a7b3e50b6dfb2"
 metafile = true
 
 [[files]]
