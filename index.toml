@@ -22605,14 +22605,6 @@ file = "mods/1.12.2/MathParser.org-mXparser-4.0.0.jar"
 hash = "dc9d0749f089ab1ae305bcfc86e09e075bc6b1abbb6f00d8962f5239ce94e292"
 
 [[files]]
-file = "mods/DungeonTactics-1.12.2-0.16.9.jar"
-hash = "a8b9d2e7645ff66ade494c4e5c47f541db775f8de6cdb5db5fbb5fef80737287"
-
-[[files]]
-file = "mods/PackModeMenu-1.0.4.jar"
-hash = "338a4e39a28ccef96eea4a7d6b287a846041f05a647fd8389d1a2c6bcb70aad5"
-
-[[files]]
 file = "mods/actually-additions.pw.toml"
 hash = "047ea8e0c2ab84aab7e185357a6e5f2dbb75059ba7a0044cd4a22a98dbbcdb84"
 metafile = true
@@ -23311,10 +23303,6 @@ metafile = true
 file = "mods/immersive-petroleum.pw.toml"
 hash = "fdf9c1eb972fa8985f9cf585d8ebecbb1398ca42265b34874a925f0980837c88"
 metafile = true
-
-[[files]]
-file = "mods/immersiveintelligence-1.12.2-0.1.1-nospam.jar"
-hash = "494308dffd13b2de0074a49acd506fd603862429cc8fde53697f23c0ee3892af"
 
 [[files]]
 file = "mods/immersiveposts.pw.toml"
@@ -24138,10 +24126,6 @@ metafile = true
 file = "mods/the-twilight-forest.pw.toml"
 hash = "7af0b8a8e634eab7ecd9e6401ce3c71d6ec1c2c5dae078dee5a526898f88c72c"
 metafile = true
-
-[[files]]
-file = "mods/themidnight-0.3.5.jar"
-hash = "43d909842d543055376d13b4f484bcf47fba257d3cd62dd24359b48f9cc896fe"
 
 [[files]]
 file = "mods/thermal-cultivation.pw.toml"
