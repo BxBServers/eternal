@@ -9106,7 +9106,7 @@ hash = "a2e6e5a9bca83cc08cc0e693ef9a0ac6a1a8bc828a02f8eaf88bafec58903201"
 
 [[files]]
 file = "config/cofh/core/common.cfg"
-hash = "bf4280b326b025e84842ddcb68c303aa04037dcd10ac654ced6e6e392da6a98c"
+hash = "62e20fb388112fbead81db2f366f697b4a03cc15452b7256a211fceae51845b6"
 
 [[files]]
 file = "config/cofh/core/friends.cfg"
@@ -9250,7 +9250,7 @@ hash = "8eddad0303241392fd850203ae1d14467f2706dfbd6ce254662784d741cd0ab5"
 
 [[files]]
 file = "config/cyclicmagic.cfg"
-hash = "e97e0e6b753237cae88105a62656c67eaa53fdb68bed1d4dfa39bde6df58685c"
+hash = "81b77763878d59d012021b76f0ed6402ab241dc7e39a6c7dd6a0db3fdde761f1"
 
 [[files]]
 file = "config/cyclopscore.cfg"
@@ -20598,7 +20598,7 @@ hash = "187f74b34a219c0f6fbf4864bb8bef4e771d4f6452c5e586f08eb529580e3bcd"
 
 [[files]]
 file = "config/mysticalagriculture.cfg"
-hash = "a691ac76a32624eb364eccb87163293c211cdcf21d954440ae534df10966249e"
+hash = "b7846a6a72fe48ac21688fb11db9a228f13bde36d954f1e4b425a2a550e009b8"
 
 [[files]]
 file = "config/mysticalagriculture_recipes.cfg"
@@ -23117,6 +23117,11 @@ metafile = true
 [[files]]
 file = "mods/extracells2.pw.toml"
 hash = "40128b235af7cb2c5ccb70193e483762611dfca95a15e838d0967154142a7cc8"
+metafile = true
+
+[[files]]
+file = "mods/extreme-reactors.pw.toml"
+hash = "eafb0b5ea70aa40fd93e93331e0a4d59708b9a7502297a3ece67a3c83813f9a2"
 metafile = true
 
 [[files]]
