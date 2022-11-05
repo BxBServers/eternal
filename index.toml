@@ -23046,12 +23046,7 @@ metafile = true
 
 [[files]]
 file = "mods/dungeon-tactics.pw.toml"
-hash = "8efd2a520a2dfdceedba80e7c6160b1a9f8b79a878de5f5d74e6f913082ac4ed"
-metafile = true
-
-[[files]]
-file = "mods/dungeon-tactics1.pw.toml"
-hash = "04933e14c09098d84a6f34fd56cfa49c618c5786169ad5180a8ed4a1527a21d7"
+hash = "1e465c392e0325c3d9bf7f8e1aeaea140f08cab403ccb76f21279fb2c9aebd76"
 metafile = true
 
 [[files]]
@@ -23306,7 +23301,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-intelligence.pw.toml"
-hash = "15e3350ec15c84ddcf0ff013697c24292d1b0e75c05ba4306b873c159a9bc3f2"
+hash = "0cdb04d774e12e128cf077046a7c1b746f97199e5bffe57a18c0d6c02b746e19"
 metafile = true
 
 [[files]]
@@ -23834,7 +23829,7 @@ metafile = true
 
 [[files]]
 file = "mods/packmodemenu.pw.toml"
-hash = "4399d32295ebf6be0f64203fc08a61776a2f13a21f58bc43cd906fa3afa5fb4e"
+hash = "3669b032b54a586fb6b696a7d78fe9897de6a88df5253374035ef05c26a319de"
 metafile = true
 
 [[files]]
@@ -24124,7 +24119,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-midnight.pw.toml"
-hash = "db14975dbbec5c186be978e9399bbb2444f3857d3c82375262268fab531eae88"
+hash = "12826c1d4ac416a51d5c38fb8a3c84c83e446d7dda583f8ac3ae995adcd4ee41"
 metafile = true
 
 [[files]]
