@@ -738,7 +738,7 @@ hash = "96bd95304e90ff31eecdf4e287a9185901ed7d042536bdc6749d470363aff6bf"
 
 [[files]]
 file = "config/agricraft/config.cfg"
-hash = "1b3f5a9f16b8138de064135181009d759a56110ce11eb5f681746d6cef32c03e"
+hash = "0bf2cb982aede9a8d1b91f0259a35a20d5eac6aea5db78aa87a6e11dcad3b3db"
 
 [[files]]
 file = "config/agricraft/json/defaults/mod_Botania/mutations/botania_black_mutation.json"
@@ -8202,7 +8202,7 @@ hash = "08881d423a6d591f301e948113ccb695157c3b1213286c00f50a45f769aa626c"
 
 [[files]]
 file = "config/beneath/beneath.cfg"
-hash = "ed8bcb1d49f75fd52894273a7108bf705cbcfd50fa0c064c783f1950bddf3319"
+hash = "35fcadd870f6405ebdc47400ea92f8e2dc477ca83fac81437b1c1faacd6727fc"
 
 [[files]]
 file = "config/beneath/blockdeco.json"
@@ -20558,7 +20558,7 @@ hash = "2fb7bd6ae3d592927f258557ee24dcf382dfc6d72225f8d3093e757ceb847740"
 
 [[files]]
 file = "config/midnight.cfg"
-hash = "99f9c1f4d82601648a921961e64e1b956deaae690cadd254905fc629676a1d41"
+hash = "5972381066aad5c1129addf988fcc5dd5a75fe6a7f2e2ee3fcf7724a53c26bc9"
 
 [[files]]
 file = "config/minecolonies.cfg"
@@ -20598,7 +20598,7 @@ hash = "187f74b34a219c0f6fbf4864bb8bef4e771d4f6452c5e586f08eb529580e3bcd"
 
 [[files]]
 file = "config/mysticalagriculture.cfg"
-hash = "d33fd19a502feabd4390e9201e059a28a491e37adac497395bd64e1f0ebea57f"
+hash = "a691ac76a32624eb364eccb87163293c211cdcf21d954440ae534df10966249e"
 
 [[files]]
 file = "config/mysticalagriculture_recipes.cfg"
@@ -20606,7 +20606,7 @@ hash = "1b347613c7e2757bb4dddab7c7331dd68d89d8e0bf49d6a9a9ab0803cbc4c677"
 
 [[files]]
 file = "config/mysticalworld.cfg"
-hash = "969953db90852dc4527376987965b6e0ee01447702c7630f503638f3ad6c8d2d"
+hash = "48503c1ec305d13bbc825bd3bad8d6bd00ce4f9b0035b347df416aa33893f70e"
 
 [[files]]
 file = "config/naturesaura.cfg"
@@ -20674,7 +20674,7 @@ hash = "a7f9297625f64137a9fbc16868f385e6f13ddb2999bb4f58fba809db936fe7a3"
 
 [[files]]
 file = "config/oreexcavation.cfg"
-hash = "76abc5f429b38a84c3d3c9377432162173ccab57a7de8b62a05327a6175860cb"
+hash = "322ac092156208e0fcef4fe72252e2439f37dee52da0687913ca64cd9adbd368"
 
 [[files]]
 file = "config/oreexcavation_groups.json"
