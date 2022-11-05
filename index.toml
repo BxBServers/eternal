@@ -24659,6 +24659,10 @@ file = "scripts/Wings.zs"
 hash = "1fc847f0cefcfa5682d00dea3af743e753f5497eb4c6e3627f7db208f174ddec"
 
 [[files]]
+file = "servers.dat"
+hash = "26a9106ec8b64dd3ddac44dc86ef5a4092c8d9e83d5f38f7c62f2b022eb144ee"
+
+[[files]]
 file = "structures/UndeadCheeseChurch.rcst"
 hash = "1754eb8795df71c679bf49c72ceb394e738fd36bec5fdf70d64584595af5f2c9"
 
