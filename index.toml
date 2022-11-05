@@ -23268,11 +23268,6 @@ hash = "d8060c345d973706ee8a5a0d6de7c2a2619bd3cc29ed3d6d8fe240ba52e5fe07"
 metafile = true
 
 [[files]]
-file = "mods/hardcore-darkness.pw.toml"
-hash = "7802c0b6315b31dc6ca400703d15ab773730fa080b66ac430689ddcda4cd94d9"
-metafile = true
-
-[[files]]
 file = "mods/hole-filler-mod.pw.toml"
 hash = "74bf15576fe2d14d590e001e2b365ae3543589e02b7b967cabdebd7445768188"
 metafile = true
