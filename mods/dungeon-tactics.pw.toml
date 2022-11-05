@@ -3,11 +3,6 @@ filename = "DungeonTactics-1.12.2-0.16.9.jar"
 side = "both"
 
 [download]
+url = "https://bxbservers.github.io/eternal/modjars/DungeonTactics-1.12.2-0.16.9.jar"
 hash-format = "sha1"
 hash = "bb8335d0a991c4bfce27094082681bca1758e4b4"
-# mode = "metadata:curseforge"
-
-# [update]
-# [update.curseforge]
-# file-id = 3008088
-# project-id = 242500

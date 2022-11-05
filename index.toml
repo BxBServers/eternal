@@ -23050,6 +23050,11 @@ hash = "8efd2a520a2dfdceedba80e7c6160b1a9f8b79a878de5f5d74e6f913082ac4ed"
 metafile = true
 
 [[files]]
+file = "mods/dungeon-tactics1.pw.toml"
+hash = "04933e14c09098d84a6f34fd56cfa49c618c5786169ad5180a8ed4a1527a21d7"
+metafile = true
+
+[[files]]
 file = "mods/dungeons-mod.pw.toml"
 hash = "8b406692af8522d5e93dfac5d239eb810d037b41c1d5c9db49a534a33f6626eb"
 metafile = true
@@ -23297,6 +23302,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-engineering.pw.toml"
 hash = "0764bde575aca6b60f2e211552e354ec5c7db203e678aedc9b7c1b411690b9d8"
+metafile = true
+
+[[files]]
+file = "mods/immersive-intelligence.pw.toml"
+hash = "15e3350ec15c84ddcf0ff013697c24292d1b0e75c05ba4306b873c159a9bc3f2"
 metafile = true
 
 [[files]]

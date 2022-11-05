@@ -1,0 +1,8 @@
+name = "Immersive Intelligence"
+filename = "immersiveintelligence-1.12.2-0.1.1-nospam.jar"
+side = "both"
+
+[download]
+url = "https://bxbservers.github.io/eternal/modjars/immersiveintelligence-1.12.2-0.1.1-nospam.jar"
+hash-format = "sha1"
+hash = "f486a1c8e5e74d28f13c2eadebb674316a2b6857"
