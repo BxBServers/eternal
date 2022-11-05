@@ -24205,11 +24205,6 @@ hash = "52c2e99ce52b5b51c995156396b9426693b05932f922755e46787e5db8915a46"
 metafile = true
 
 [[files]]
-file = "mods/treechop.pw.toml"
-hash = "06dcb95e6972a01461bab6ee949848cf3ce01d8d19915273b733f83c1203512b"
-metafile = true
-
-[[files]]
 file = "mods/tweakers-construct.pw.toml"
 hash = "04d975cbad595a2c30373528d26be9289115a654df71b94b968f204508909679"
 metafile = true
