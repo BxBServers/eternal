@@ -1,0 +1,13 @@
+name = "MC Eternal (Hysteria version)"
+author = "gary"
+version = "1.5"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "91ac5a64339ce2ed6b144f9be070cab418a4c7c21040937a2d9e3b638f2cd7e3"
+
+[versions]
+forge = "14.23.5.2854"
+minecraft = "1.12.2"

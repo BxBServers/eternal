@@ -1,0 +1,13 @@
+name = "The Aurorian"
+filename = "theaurorian-1.12.2-release-mar2321.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3a18f738bd5d2468bba53fa54569a258f4a1c60a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3249263
+project-id = 352137

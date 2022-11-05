@@ -1,0 +1,13 @@
+name = "Dungeons Mod"
+filename = "DungeonsMod-1.12.2-1.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6c1a4ec76c5242b88735b86fb95a5b5d45f0c43e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3096667
+project-id = 359619

@@ -1,0 +1,13 @@
+name = "The Summoner"
+filename = "thesummoner-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3b412dc8630fef988c56eb7e18ee9691209d5b71"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2656993
+project-id = 310287
