@@ -23233,11 +23233,6 @@ hash = "c3c0a4d258062ed8f4d66f7dba5d98147fef033997172f93787893ade8d6a44e"
 metafile = true
 
 [[files]]
-file = "mods/glibys-voice-chat-reloaded.pw.toml"
-hash = "0ffa5c86932b305a56eb5c611cde4a6396fc717eece17796d75f952d89330f4d"
-metafile = true
-
-[[files]]
 file = "mods/gottschcore.pw.toml"
 hash = "84971ef0db955cafaee8e47e94334e9bbc626f3b8984aad7b3e88ae9950dcbec"
 metafile = true
