@@ -22400,7 +22400,7 @@ metafile = true
 
 [[files]]
 file = "mods/spell-bundle.pw.toml"
-hash = "acd5a2d557c476f64b369d1c93028b8990b2d9fbfd4b5ec79bda3eea7b0c9e0f"
+hash = "7bc39151ecea84aa37e04c6d42f43443082046a76ca988c28f73e4192023da16"
 metafile = true
 
 [[files]]
@@ -22575,12 +22575,12 @@ metafile = true
 
 [[files]]
 file = "mods/treasure2-twilight-forest-loot-pack.pw.toml"
-hash = "46d3054f4438e1a47153799380e9a7e0a37aa29acfbde257829f7e5d9d251b22"
+hash = "fc1b5b7bc4386bad20a3c5d737429178e96dedb44a603a635bb3ca623cad107a"
 metafile = true
 
 [[files]]
 file = "mods/treasure2-wizardry-loot-pack.pw.toml"
-hash = "6e79a8a2d3e9d4fb0c36537100309482447a46da038f4f398ba4b220d72f72f7"
+hash = "55c1b4245229255b8fb33335a833a78a4fa3850fe9daf6eb8f35a3a20b2859ad"
 metafile = true
 
 [[files]]

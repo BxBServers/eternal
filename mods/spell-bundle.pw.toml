@@ -1,13 +1,7 @@
-name = "Spell Bundle (Electroblob's Wizardry)"
+name = "spell-bundle"
 filename = "SpellBundle-1.12.2-1.1.2.jar"
-side = "both"
 
 [download]
+url = "http://localhost:8000/modjars/SpellBundle-1.12.2-1.1.2.jar"
 hash-format = "sha1"
 hash = "a57fbc5e20d30493b7f8231128b57e29bb88e301"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 3753720
-project-id = 559525
