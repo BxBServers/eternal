@@ -2,6 +2,6 @@ name = "treasure2-wizardy-loot-pack"
 filename = "Treasure2WizardryLP-mc1.12.2-f14.23.5.2859-v2.0.0.jar"
 
 [download]
-url = "http://localhost:8000/modjars/Treasure2WizardryLP-mc1.12.2-f14.23.5.2859-v2.0.0.jar"
+url = "https://bxbservers.github.io/eternal/modjars/Treasure2WizardryLP-mc1.12.2-f14.23.5.2859-v2.0.0.jar"
 hash-format = "sha1"
 hash = "ca789fac3f48a7ac54ba89913c50f00f150e03aa"

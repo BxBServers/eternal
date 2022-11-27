@@ -2,6 +2,6 @@ name = "treasure2-twilight-forest-loot-pack"
 filename = "Treasure2TwilightForestLP-mc1.12.2-f14.23.5.2859-v2.0.0.jar"
 
 [download]
-url = "http://localhost:8000/modjars/Treasure2TwilightForestLP-mc1.12.2-f14.23.5.2859-v2.0.0.jar"
+url = "https://bxbservers.github.io/eternal/modjars/Treasure2TwilightForestLP-mc1.12.2-f14.23.5.2859-v2.0.0.jar"
 hash-format = "sha1"
 hash = "f48803d8d214cf4ca8cd4ea9cd0a0e827b5dd2b2"
