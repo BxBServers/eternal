@@ -1,0 +1,13 @@
+name = "Wizardry - Necromancer's Delight"
+filename = "WizardryNecromancersDelight-1.12.2-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a2a9a532eb1121da4f0f6602535f52a8a3fe1872"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3856426
+project-id = 613255

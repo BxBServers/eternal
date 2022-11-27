@@ -1,13 +1,13 @@
 name = "Ancient Spellcraft"
-filename = "ancientspellcraft-1.1.3.jar"
+filename = "AncientSpellcraft-1.12.2-1.5.5.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "849b429e7d347858ed38102ff164038f50a55bfd"
+hash = "eca5c5c869205bff46f7a1d7d8fca7afb37b4c64"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3238582
+file-id = 4060147
 project-id = 358124
