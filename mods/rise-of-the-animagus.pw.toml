@@ -1,0 +1,13 @@
+name = "Rise of the Animagus"
+filename = "MorphSpellPack-1.12.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "062260635c52bd86226604f26aded64ee518430c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4060256
+project-id = 690655

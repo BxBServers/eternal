@@ -1,13 +1,13 @@
 name = "Roots"
-filename = "Roots-1.12.2-3.0.33.jar"
+filename = "Roots-1.12.2-3.1.6.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "8f4e3d71138a677c76124ce150d9edf75c82c8da"
+hash = "c4ccb3c91d96badb76af6b47a26390e00f3714b0"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3243267
+file-id = 3905074
 project-id = 246183
